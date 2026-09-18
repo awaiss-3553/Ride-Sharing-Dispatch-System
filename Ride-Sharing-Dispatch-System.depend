@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789726172 source:c:\users\user\downloads\ride-sharing-dispatch-system\main.cpp
+	<iostream>
+	<string>
+
